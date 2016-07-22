@@ -1,0 +1,45 @@
+.form-control{
+	width:30%;
+}
+.bg-success, .bg-danger{
+	display:none;
+	height:40px;
+}
+#registrationContainer{
+	margin-top:20px;
+}
+#adultCount, #sumKids, #total{
+	font-size: 50px;
+	padding:10px;
+}
+
+#reportsContainer{
+	float: right;
+	margin-right: 40%;
+	margin-top: 6%;
+}
+#childrenContainer{
+	width:100%;
+}
+.child{
+	width:33%;
+	float:left;
+}
+.invalid{
+	border: 2px solid red;
+}
+#header{
+	background-color:black;
+	height:88px;
+}
+#logo{
+	width: 130px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	float:left;
+}
+.mainHeader{
+color:#FFF;
+float:left;
+margin-left:10px;
+}
